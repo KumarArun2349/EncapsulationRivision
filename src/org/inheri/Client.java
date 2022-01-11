@@ -10,15 +10,15 @@ public class Client extends Company {
 		System.out.println("AABBCC");
 
 	}
-	private void clientAdd() {
-		System.out.println("USA");
+	private void clientNo() {
+		System.out.println("9876543210");
 
 	}
 	public static void main(String[] args) {
 		Client c1=new Client();
 		c1.clientId();
 		c1.clientName();
-		c1.clientAdd();
+		c1.clientNo();
 		c1.cId();
 		c1.cName();
 		c1.empID();
