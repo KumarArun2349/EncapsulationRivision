@@ -12,7 +12,6 @@ public class Client extends Company {
 	}
 	private void clientAdd() {
 		System.out.println("USA");
-
 	}
 	public static void main(String[] args) {
 		Client c1=new Client();
